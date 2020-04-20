@@ -14,9 +14,9 @@ cd into the directory containing this script. Than run the commands below:
 ## Usage
 
 > pipenv shell  
-> python main.py <filename>
+> python main.py <u>filename</u>
 
-replace <filename> with the name of the output pdf. If filename is not given
+replace <u>filename</u> with the name of the output pdf. If <u>filename</u> is not given
 the output pdf is named 'untitled.pdf'.
 
 ## Notes
