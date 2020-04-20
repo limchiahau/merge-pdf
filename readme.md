@@ -2,15 +2,13 @@ PDF Merger
 
 This scripts requires users to create an output and an input directory in the same folder as the script.
 
-> mkdir input output
-
 This script will merge the pdf's in input and place the output file in output.
 
 ## Installation
 
 cd into the directory containing this script. Than run the commands below:
 
-> mkdir input output
+> mkdir input output  
 > pipenv install --ignore-pipfile
 
 ## Usage
