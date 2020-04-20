@@ -13,7 +13,7 @@ cd into the directory containing this script. Than run the commands below:
 
 ## Usage
 
-> pipenv shell
+> pipenv shell  
 > python main.py <filename>
 
 replace <filename> with the name of the output pdf. If filename is not given
