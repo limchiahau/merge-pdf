@@ -6,8 +6,16 @@ This scripts requires users to create an output and an input directory in the sa
 
 This script will merge the pdf's in input and place the output file in output.
 
+## Installation
+
+cd into the directory containing this script. Than run the commands below:
+
+> mkdir input output
+> pipenv install --ignore-pipfile
+
 ## Usage
 
+> pipenv shell
 > python main.py <filename>
 
 replace <filename> with the name of the output pdf. If filename is not given
